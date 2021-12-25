@@ -1,0 +1,12 @@
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\bin\Debug\GestAlone.exe.config
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\bin\Debug\GestAlone.exe
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\bin\Debug\GestAlone.pdb
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.csprojResolveAssemblyReference.cache
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.FormConnexion.resources
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.Properties.Resources.resources
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.csproj.GenerateResource.Cache
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.exe
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.pdb
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.Main.resources
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\fab\Dropbox\ProjetTrois\GestAlone\GestAlone\obj\Debug\GestAlone.bunigu.resources
